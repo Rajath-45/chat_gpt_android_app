@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">4907849881-jnonb66p2asfsofto13k5afthvjd8umj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">4907849881</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWDdFAL0uKahlPylZdwltlkMmYWTZuTmw</string>
+    <string name="google_app_id" translatable="false">1:4907849881:android:b99bce6de0521df6bf0008</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWDdFAL0uKahlPylZdwltlkMmYWTZuTmw</string>
+    <string name="google_storage_bucket" translatable="false">chatgpt-login-dc899.appspot.com</string>
+    <string name="project_id" translatable="false">chatgpt-login-dc899</string>
+</resources>
